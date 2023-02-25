@@ -1,7 +1,5 @@
-<h1 align="center">
- <strong>Digital-filter-design</strong>
- <br/><br/>
-</h1>
+## Digital-filter-design
+ 
 
 
 ## Table of contents

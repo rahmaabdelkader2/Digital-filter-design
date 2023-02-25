@@ -10,5 +10,4 @@
 * team members
 
 ## Project overview
-Application which looks, and behave like Paint known from Windows OS. 
-Draw shapes, fill them with color or erase them. Rescale, and zoom your picture.
+

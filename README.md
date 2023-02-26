@@ -13,12 +13,12 @@ This project is considered a task submission for Digital signal processing cours
 Our website is made by Flask (python) framework for backend and HTML, CSS , Javascript for frontend .
 
 ## Features
-1- adding/deleting/moving zeros and poles on a unit circle .
-2- Generate your own signal using trackpad
-3- Import and export filters
-4- import any type of signal and represent it dynamically in time domain.
-5- Phase correction using all pass filter.
-6- Catalogue is provided as references for multiple examples of all pass-filter or you can create your own and submit it.
+- 1- adding/deleting/moving zeros and poles on a unit circle .
+- 2- Generate your own signal using trackpad
+- 3- Import and export filters
+- 4- import any type of signal and represent it dynamically in time domain.
+- 5- Phase correction using all pass filter.
+- 6- Catalogue is provided as references for multiple examples of all pass-filter or you can create your own and submit it.
 
 ## Screenshots
 - Importing signal
